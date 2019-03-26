@@ -1,0 +1,177 @@
+body{
+  background-color: #ddd;
+}
+
+
+#draggable1, #draggable2, #draggable3 { 
+   width: 150px;
+   height: 150px;
+   padding: 0.5em; 
+   float: left; 
+   margin: 0 10px 10px 0;
+}
+.dropable{
+        margin-top: 174px;
+}
+  #droppable { 
+   width: 150px;
+   height: 150px; 
+   padding: 0.5em; 
+   float: left;
+   margin: 10px; 
+}
+
+  #draggable, #draggable-nonvalid { 
+    width: 100px; 
+    height: 134px; 
+    padding: 0.5em; 
+    float: left; 
+    margin: 10px 10px 10px 0;
+}
+.resizable_constrain_resize_area{
+    margin-top: 200px;
+}
+  #container { 
+    width: 300px; 
+    height: 300px; 
+}
+  #container h3 { 
+    text-align: center; 
+    margin: 0; 
+    margin-bottom: 10px; 
+}
+  #resizable { 
+    background-position: top left; 
+    width: 150px; 
+    height: 150px; 
+    background-color: aqua;
+}
+  #resizable, #container {
+   padding: 0.5em;
+}
+.selectable_default{
+    margin-top:50px;
+}
+  #feedback { 
+    font-size: 16px;
+ }
+  #selectable .ui-selecting { 
+    background: #FECA40;
+ }
+  #selectable .ui-selected { 
+    background: #F39814;
+     color: white;
+ }
+  #selectable {
+   list-style-type: none; 
+   margin: 0; 
+   padding: 0;
+   width: 60%; 
+}
+  #selectable li {
+   margin: 3px; 
+   padding: 0.4em; 
+   font-size: 16px; 
+   height: 45px; 
+}
+/*sortable*/
+  #sortable1, #sortable2 {
+    border: 1px solid #eee;
+    width: 142px;
+    min-height: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 5px 0 0 0;
+    float: left;
+    margin-right: 10px;
+  }
+  #sortable1 li, #sortable2 li {
+    margin: 0 5px 5px 5px;
+    padding: 5px;
+    font-size: 1.2em;
+    width: 120px;
+  }
+  /*sortable*/
+  /*widgets start*/
+.accordion_default{
+    margin-top:250px;
+  }
+  /*autocomplete*/
+.Autocomplete_default{
+    margin-top:40px;
+  }
+.custom-combobox {
+    position: relative;
+    display: inline-block;
+  }
+.custom-combobox-toggle {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin-left: -1px;
+    padding: 0;
+  }
+.custom-combobox-input {
+    margin: 0;
+    padding: 5px 10px;
+  }
+  /*autocomplete*/
+#zoom-button {
+      width: 55px;
+}
+#fontname-button,
+#fontsize-button {
+      width: 45px;
+ }
+#forecolor-button {
+      width: 50px;
+}
+#hilitecolor-button {
+      width: 70px;
+}
+#bold {
+      font-weight: bold;
+}
+#italic {
+      font-style: italic;
+}
+#underline {
+      text-decoration: underline;
+}
+.toolbar {
+      font-size: .75em;
+}
+#page {
+      width: 440px;
+      left: 50%;
+      position: relative;
+      margin-left: -226px;
+      height: 450px;
+      border: 1px solid #888;
+      box-shadow: 7px 7px 3px #ccc;
+      font-size: 11px;
+      font-family: "Lucida Grande";
+      zoom: 100%;
+      padding: 5px;
+      white-space: pre-line;
+      overflow: scroll;
+    }
+ .wrap {
+      width: 570px;
+    }
+  /*widgets end*/
+  /*add class*/
+    .toggler { width: 500px; height: 200px; position: relative; }
+    #button { padding: .5em 1em; text-decoration: none; }
+    #effect { width: 240px;  padding: 1em; border: 1px solid #000; background: #eee; color: #333; }
+    .newClass { text-indent: 40px; letter-spacing: .4em; width: 410px; height: 120px; padding: 30px; margin: 10px; font-size: 1.1em; }
+  /*add class*/
+    .toggler1 { width: 500px; height: 200px; position: relative; }
+    #button_animate { padding: .5em 1em; text-decoration: none; }
+    #effect1 { width: 240px; height: 170px; padding: 0.4em; position: relative; background: #fff; }
+    #effect1 h3 { margin: 0; padding: 0.4em; text-align: center; }
+
+    .toggler { width: 500px; height: 200px; position: relative; }
+    #button { padding: .5em 1em; text-decoration: none; }
+    #effect { width: 240px; height: 170px; padding: 0.4em; position: relative; background: #fff; }
+    #effect h3 { margin: 0; padding: 0.4em; text-align: center; }

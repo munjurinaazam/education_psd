@@ -1,0 +1,109 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.menu ul li a{
+   	  padding: 0 0 px !important;
+   	  text-align: right;
+   }
+.menu ul li a{
+   	  padding: 0 0 px !important;
+   	  text-align: right;
+      font-size:18px;
+   }
+    .slider_content{
+        margin-top: 30px;
+    }
+    .slider_content h1{
+        font-size: 26px;
+        margin-bottom: 15px;
+    }
+    .slider_content h5{
+        font-size: 18px;
+        margin-bottom: 10px;
+        word-spacing: 0px;
+        letter-spacing: 5px;
+    }
+    .p_l_0{
+        padding-left: 15px;
+    }
+    .ml-auto{
+    float:right;
+  }
+
+
+    
+   
+.features_content {
+    /* margin-top: 50px; */
+    text-align: center;
+    }
+.email{
+    margin-top: 0;
+    margin-bottom: 0rem;
+   text-align: center;
+    color:#fff;
+    font-size: 15px;
+}
+.address , .phoneno{
+  color:#fff;
+  text-align: center;
+  font-size:15px;
+}
+.context{
+  margin-top:20px;
+  text-align:center;
+}
+.contact_details h1 {
+    font-size: 25px;}
+
+}
+.contact_details p {
+    font-size: 16px;
+}
+.feature_title p {
+   font-size: 17px;
+}
+.slider_img img {
+    width: 91%;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.menu ul li a{
+   	  padding: 0 0 px !important;
+   	  text-align: right;
+      font-size:19px;
+   }
+    .features_content {
+    /* margin-top: 50px; */
+    margin-left: 10px;
+}
+
+.ml-auto{
+    float:right;
+  }
+
+
+}
+
+/*   Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .ml-auto{
+    float:right;
+  }
+  .features_icons i {
+    font-size: 39px;}
+}
+.slider_img img {
+    width: 100%;
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { }
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+}
+}

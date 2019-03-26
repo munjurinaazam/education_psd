@@ -1,0 +1,542 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px){
+  .searchbar{
+    width:40px;
+    height:40px;
+    margin-top: 40px;
+    margin-left: 3px;
+  }
+  #dropdownMenuLink{
+
+          /* margin-left: 114px;*/
+       /* margin-top: 158px;*/
+}
+.dropdown-menu {
+    /* padding: 0px; */
+    /* margin-left: 117px; */
+}
+
+.navbar-toggler{
+    margin-top: 10px;
+    margin-right: 115px;
+    
+}
+  .fa-search{
+            margin-left: 20px;
+            margin-bottom: 70px;
+            margin-top: 49px;
+}
+            
+  
+ .m-auto{
+  
+ }
+ .btn_drop  {
+  
+  margin-left: 10px;
+}
+.btn{
+  float: left;
+}
+  .banner_content h1 {
+    font-size: 21px;
+	}
+  .banner_content {
+   
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.scroll p{
+  font-size: 15px;
+ 
+}
+/*desiration_kid*/
+.desiration_kid {
+    padding: 40px 0px;
+}
+.giraffe_content img{
+      width: 38%;
+}
+.giraffe_content img {
+    width: 42%;
+    margin-left: 70px;
+}
+.giraffe_image img {
+    margin-top: 30px;
+    width: 96%;
+    text-align: center;
+    margin-left: 10px;
+}
+.d_k_content h1 {
+    font-size: 20px;
+  }
+.giraffe_content h3 {
+    font-size: 20px;
+}
+/*desiration_kid*/
+.kid_education {
+    padding: 50px 0px;
+}
+.kids_program_img{
+  margin-top:30px;
+}
+.kid_heading h1{
+  font-size: 22px;
+}
+.kids_program_content p {
+    font-size: 18px;
+  }
+  .features {
+    padding: 50px 0px;
+}
+.feature_content h1 {
+    font-size: 21px;
+  }
+  .card-title{
+    /*margin-left: 77px;*/
+    font-size: 20px;
+  }
+  .card {
+  margin-top: 25px;
+}
+  .skills h4 {
+   /* margin-left: 56px;*/
+    font-size:21px;
+  }
+  .foot_2{
+    margin-left: 70px;
+  }
+  .more img {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.img-fluid {
+    max-width: 90%;
+  }
+    
+  /*moments*/
+  .moments {
+    margin: 60px 0px;
+    padding: 80px 0px;
+  }
+  .moments_img {
+    padding:0px 0px;
+    margin-top: 50px;
+}
+  .moments_img img {
+    margin-left: 12px;
+}
+.moment_button img {
+   
+    margin-top: 60px;
+    width: 60%;
+}
+.moments_content h1 {
+    font-size: 27px;
+  }
+  
+/*moments*/
+.col-xl-6 {
+  text-align: center;
+}
+.t_content h3{
+  margin-top: 20px;
+}
+.kids_always {
+    padding: 60px 0px;
+}
+.search_input{
+  width: 142%;
+  line-height: 30px;
+}
+.timeline {
+    padding: 60px 0px;
+}
+.img-fluid {
+    max-width: 60%;
+  }
+  .date img{
+        margin-left: 98px;
+  }
+  .news_content {
+    text-align: center;
+}
+.news_img img{
+  margin-left: 70px;
+}
+.news_content hr {
+    width: 200px;
+    margin-left: 50px;
+}
+.menu ul li a {
+    font-size: 16px;
+}
+.foot_cont p{
+  text-align: center;
+}
+.form-control {
+  width: 70%;
+}
+.hours_count img {
+    margin-left: 80px;
+}
+
+.instra_head h1 {
+    margin-right: 190px;
+    font-size: 20px;
+}
+.contact {
+  padding:40px 0px;
+  background-color: #fff;
+  background-image: none;
+}
+.contact_details{
+  padding:0;
+}
+.contact_details hr {
+   margin-left: 0px;
+
+}
+.instragram {
+    padding: 0px;
+}
+.signup{
+  padding:5px;
+}
+.signup hr {
+  margin-left: 0px;
+}
+.form-control_direct {
+    padding: .5rem .75rem;
+
+}
+.instra_head hr {
+   
+    margin-left: 0px;
+     
+}
+.contact_details h1 {
+    font-size: 20px;
+   }
+.signup h1 {
+    font-size: 20px;
+  }
+.dropdown {
+    padding-left: 0;
+    /* margin-left: 40px; */
+}
+.btn_drop  {
+      /* margin-left: 114px; */
+    /* margin-top: 158px;*/
+
+}
+.dropdown-menu{
+  margin-left: 60px;
+  min-width: 1rem;
+}
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.menu ul li a{
+   	  padding: 0 0 px !important;
+   	  text-align: right;
+   }
+    .features_content {
+    /* margin-top: 50px; */
+   margin-left: 10px;
+}
+.banner_content {
+
+    margin-top: 140px;
+    margin-bottom: 156px;
+}
+.banner_content h1 {
+    font-size: 38px;
+
+}
+/*desiration_kid*/
+.desiration_kid {
+    padding: 60px 0px;
+}
+.d_k_content {
+    margin-bottom: 30px;
+}
+.d_k_content h1 {
+    font-size: 25px;
+
+}
+/*desiration_kid*/
+
+}
+
+/*   Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .nav-item {
+    margin-right: 50px;
+  }
+  .dropdown {
+    padding-left: 170px;
+    margin-right: 50px;
+}
+.dropdown-menu{
+      margin-left: 548px;
+      margin-top: 40px;
+      min-width: 1rem;
+}
+#navbarSupportedContent{
+          width: 107%;
+
+}
+.fa-search{
+    width: 3px;
+    margin-bottom: 21px;
+    margin-left: 6px;
+}
+.searchbar{
+    margin-left: 606px;
+    margin-top: 50px;
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+}
+.searchbar:hover > .search_input {
+   
+    width: 90px;
+    
+}
+
+.dropdown-item{
+  float: right;
+}
+  .nav-link{
+        float: right;
+  }
+  .banner_content{
+  margin-top: 130px;
+  margin-bottom:160px;
+}
+/*desiration_kid start*/
+.desiration_kid {
+    padding: 80px 0px;
+
+}
+.giraffe_image img {
+    margin-top: 50px;
+}
+/*desiration_kid end*/
+.kid_education {
+   
+    padding: 80px 0px;
+}
+.kids_program_content p {
+    font-size: 20px;}
+
+
+.features {
+    padding: 100px 0px;
+    margin-top:50px;
+}
+.card-footer{
+  padding: 2px;
+
+}
+
+.card{
+/*margin-top: 30px;
+margin-bottom: 20px;*/
+
+margin: 15px;
+}
+.card-title{
+  font-size: 21px;
+  
+}
+.skills h4 {
+    
+    font-size: 21px;
+}
+.card_header, .card_header_green, .card_header_yellow,.card_header_red{
+  padding: 10px 10px;
+  border:none;
+}
+.col-md-6 {
+  margin-top: 41px;
+}
+.foot_1 {
+  margin-left: 20px;
+}
+.foot_2 {
+    margin-left: 98px;
+  }
+  .feature_content h1{
+    margin-bottom: 40px;
+  }
+.more img {
+    margin-top: 40px;
+}
+/*moment*/
+.moments {
+    margin: 100px 0px;
+    padding: 100px 0px;
+}
+.moments_img {
+    padding: 11px 0px;
+    margin-top: 0px;
+}
+.news_img img{
+  margin-left: 200px;
+    padding: 30px;
+
+}
+.timeline {
+    padding: 70px 0px;
+}
+.news_content {
+    text-align: center;
+}
+.news_content hr {
+  margin-left: 247px;
+}
+.date  img{
+  margin-left: 85px;
+  margin-top: 20px;
+}
+.dropdown i{
+      margin-left: 326px;
+}
+.dropdown i {
+    margin-left: 430px;
+}
+.btn_drop{
+  float: right;
+}
+.btn{
+  float: right;
+}
+.form-control {
+  width:100%;
+  margin-left: 20px;
+}
+.our_work {
+  padding: 80px 0px;
+}
+.contact{
+  padding: 60px 0px;
+  background-image: none;
+  background-color: #fff;
+}
+.contact_details {
+  padding:10px;
+}
+.contact_details hr {
+  margin-right: 126px;
+}
+
+.signup {
+    margin-top: 30px;
+    /* padding: 1px; */
+}
+.signup hr {
+   margin-right: 144px;
+}
+.ad_img {
+    margin-top: 120px;
+}
+.instra_head h1 {
+    margin-top: 74px;}
+}
+.instra_head hr {
+  margin-right: 124px;
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /*.navbar-expand-lg {
+    width: 1047px;
+  }*/
+  /*.navbar-expand-lg img {
+     width: 134%;
+  }*/
+ 
+.search_icon {
+  width: 40px;
+  height:40px;
+
+}
+
+.banner_content{
+  margin-top: 200px;
+  margin-bottom:220px;
+}
+/*desiration_kid*/
+.desiration_kid {
+    padding: 80px 0px;
+}
+.giraffe_image img {
+    margin-top: 40px;
+}
+/*desiration_kid*/
+/*card*/
+.card-block{
+  padding: 0;
+} 
+.card-text{
+  font-size: 15px;
+  color:none;
+}
+.profile {
+  border:none;
+}
+.foot_2 {
+  font-size:15px;
+   margin-left: 16px;
+ }
+.foot_1 {
+  font-size:15px;
+  padding-left: 12px;
+
+}
+.card-footer {
+    padding: .25rem .2rem;
+  }
+/*card*/
+.date img{
+  margin-left: 76px;
+}
+.navbar-expand-lg {
+    width: 900px;
+}
+.form-control {
+  width: 121%;
+}
+ .contact {
+    padding: 80px 0px;
+ }
+ .contact_details h1 {
+    font-size: 22px;}
+
+.signup h1 {
+    font-size: 20px;
+  }
+  .instra_head h1 {
+    margin-top: 27px;
+    font-size: 22px;
+  }
+  .form-control_direct {
+        width: 40%;
+        padding:0;
+  }
+ .ad_img img{
+   margin-top: 20px;
+ }
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+   .banner_content h1{
+    font-size:48px;
+   }
+
+
+}
